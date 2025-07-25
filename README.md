@@ -152,11 +152,6 @@ You can check the **client** logs by opening the browser's Developer Tools and i
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Conclusion
 
